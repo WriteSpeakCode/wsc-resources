@@ -32,6 +32,20 @@ GitHub's [Desktop](https://github.com/desktop) is an open source Electron-based 
 [GitHub](https://github.com/jupyter) | [Website](http://jupyter.org/)
 Project Jupyter is an open source project was born out of the IPython Project in 2014 as it evolved to support interactive data science and scientific computing across all programming languages.  Some of the repos for which we'd appreciate help include our Jupyter Notebook repo, our website, our notebook widgets, and our governance information.  We have highlighted front end, Javascript, testing, Python, translation into languages other than English, and documentation issues across our various repos.  We hope you will join us in contributing!
 
+## Go Proxy and Registry (Athens)
+*Go*
+[GitHub](https://github.com/gomods/athens)
+Project Athens is going to be the official Go proxy and registry, and works with the new Go Modules feature in the Go 1.11 beta. This is similar to what other languages already have, for instance ruby gems or npm. Not only will it let you register a package, but it can be used as a proxy (or cache) so that you are protected from packages disappearing from the internet, or github outages.
+
+We are actively seeking feedback from brand new Go developers, so everyone is welcome!
+
+## Kubernetes
+*Go, Docker*
+[GitHub](https://github.com/kubernetes/kubernetes)
+There are a LOT of projects under the Kubernetes organization. Here are some good initial projects to learn about and contribute to: [Service Catalog](https://svc-cat.io), [Community Docs](https://github.com/kubernetes/community), [Minikube](https://github.com/kubernetes/minikube).
+
+* [Finding something to work on](https://github.com/kubernetes/community/blob/master/contributors/guide/README.md#find-something-to-work-on)
+
 # Search Tools
 
 ## GitHub Tags
