@@ -60,6 +60,11 @@ We are actively seeking feedback from brand new Go developers, so everyone is we
 
 There are a LOT of projects under the Kubernetes organization. Here are some good initial projects to learn about and contribute to: [Service Catalog](https://svc-cat.io), [Community Docs](https://github.com/kubernetes/community), [Minikube](https://github.com/kubernetes/minikube).
 
+## Project List from previous events
+
+* [WSC 2016 Projects](https://github.com/WriteSpeakCode/wsc2016/blob/master/open-source-projects.md)
+* [WSC 2015 Getting Started in Open Source in Python with PyLadies Chicago](https://github.com/WriteSpeakCode/wsc-resources/blob/master/other-events/2015-chicago-oss-in-python/201507-ossinpython.md)
+
 # Search Tools
 
 ## GitHub Tags
